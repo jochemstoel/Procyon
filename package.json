@@ -1,12 +1,12 @@
 {
   "name": "procyon",
-  "version": "0.0.2",
-  "description": "",
+  "version": "0.0.3",
+  "description": "A rewrite of recommendationRaccoon to better support multiple instances with different class names, cleaner code and better use of modern JavaScript language features.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["procyon", "raccoon", "recommendation"],
   "author": "",
   "license": "ISC",
   "dependencies": {
